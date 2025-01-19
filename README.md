@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/zigmons">
-  <img height="180em" src="https://github-readme-stats-ten-ashy-95.vercel.app/api?username=zigmons&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   
-  <img height="180em" src="https://github-readme-stats-ten-ashy-95.vercel.app/api/top-langs/?username=zigmons&layout=compact&langs_count=7&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-nine-sable-17.vercel.app/api?username=zigmons&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   
+  <img height="180em" src="https://github-readme-stats-nine-sable-17.vercel.app/api/top-langs/?username=zigmons&layout=compact&langs_count=7&theme=radical&count_private=true"/>
 </div>
 
 
