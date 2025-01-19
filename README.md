@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning front-end and back-end
+- 🌱 Fullstack dev @ umgrauemeio
 - 📫 How to reach me: rafael_sousa87@hotmail.com
 - 🏠 lives in: São Paulo - Brazil
 
